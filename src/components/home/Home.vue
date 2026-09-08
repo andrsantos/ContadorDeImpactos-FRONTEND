@@ -29,6 +29,33 @@ const teloes = ref([
     impactos: '4.0M impactos/mês',
     imagem: 'https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=600&q=80',
     possuiCamera: true
+  },
+  {
+    id: 4,
+    cidade: 'Belém',
+    endereco: 'Avenida Almirante Barroso, 2500, Marco, Belém PA - 66093-020',
+    codigo: 'PAINEL-BEL-AB2',
+    impactos: '8.2M impactos/mês',
+    imagem: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=600&q=80',
+    possuiCamera: true
+  },
+  {
+    id: 5,
+    cidade: 'Ananindeua',
+    endereco: 'Rodovia BR-316, Km 8, Centro, Ananindeua PA - 67030-000',
+    codigo: 'PAINEL-ANN-BR',
+    impactos: '6.5M impactos/mês',
+    imagem: 'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=600&q=80',
+    possuiCamera: false
+  },
+  {
+    id: 6,
+    cidade: 'São Luís',
+    endereco: 'Avenida Coronel Colares Moreira, Renascença, São Luís MA',
+    codigo: 'PAINEL-SLZ-REN',
+    impactos: '5.3M impactos/mês',
+    imagem: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=600&q=80',
+    possuiCamera: true
   }
 ])
 </script>
