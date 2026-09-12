@@ -1,11 +1,8 @@
-<script setup>
-
-</script>
+<script setup></script>
 
 <template>
   <footer class="footer">
     <div class="footer-container">
-      
       <!-- Coluna 1: Logo e Descrição -->
       <div class="footer-col footer-brand-col">
         <div class="footer-logo">
@@ -13,7 +10,8 @@
           <span class="logo-text">Ultra OOH</span>
         </div>
         <p class="footer-description">
-          Telas gigantes de LED em Belém, São Luís, Ananindeua e região, com audiência medida por câmera em cada ponto.
+          Telas gigantes de LED em Belém, São Luís, Ananindeua e região, com audiência medida por
+          câmera em cada ponto.
         </p>
         <div class="social-links">
           <a href="#" class="social-icon" aria-label="Instagram">IG</a>
@@ -53,7 +51,6 @@
           <li>📍 Avenida Duque de Caxias, 454, Marco, Belém - PA</li>
         </ul>
       </div>
-
     </div>
   </footer>
 </template>
